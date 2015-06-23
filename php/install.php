@@ -9,7 +9,7 @@ $hostname = 'localhost';
 $db_user = 'root';
 
 // User Password
-$db_password = '130391jo';
+$db_password = '';
 
 // DBName
 $database_name = 'MCPE';
